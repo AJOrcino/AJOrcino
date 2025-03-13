@@ -28,7 +28,6 @@ I'm **Allen Jefferson C. Orcino**, a college student passionate about programmin
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0rcino&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0rcino&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0rcino&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
