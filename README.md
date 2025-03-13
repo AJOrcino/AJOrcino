@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0rcino)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
-## About Me
+## About Me:
 I'm **Allen Jefferson C. Orcino**, a college student passionate about programming and software development. I am diligent in learning various programming languages and aspire to become a **Software Engineer**, specializing in **Frontend** or **Backend** development. I am always willing to learn and improve my skills to contribute to innovative and impactful projects.
 
 # 💻 Tech Stack:
