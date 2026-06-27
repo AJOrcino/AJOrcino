@@ -11,7 +11,7 @@
 ## 🚀 **About Me**
 ![About Me Icon](https://img.shields.io/badge/-About%20Me-FFA500?style=for-the-badge&logo=about.me&logoColor=white)
 
-I’m **Allen Jefferson C. Orcino**, a passionate college graduate and an aspiring **Frontend Developer** and **Software Engineer**.  
+I’m **Allen Jefferson C. Orcino**, a passionate college graduate and aspiring **Frontend Developer** and **Software Engineer**.  
 I love building responsive interfaces, creating backend logic, and exploring new technologies.  
 Coding is more than just a skill—it’s a **vibe**, a passion, and a journey I enjoy every day.  
 I'm continuously learning, improving, and building projects that turn ideas into reality.
