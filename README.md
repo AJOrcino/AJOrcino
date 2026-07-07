@@ -5,6 +5,7 @@
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allen-jefferson-orcino-b82924322/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AJOrcino)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ajorcino.github.io/AJ-Portfolio/#home)
 
 ---
 
@@ -14,7 +15,9 @@
 I’m **Allen Jefferson C. Orcino**, a passionate college graduate and aspiring **Frontend Developer** and **Software Engineer**.  
 I love building responsive interfaces, creating backend logic, and exploring new technologies.  
 Coding is more than just a skill—it’s a **vibe**, a passion, and a journey I enjoy every day.  
-I'm continuously learning, improving, and building projects that turn ideas into reality.
+I'm continuously learning, improving, and building projects that turn ideas into reality.  
+
+Check out my portfolio: [ajorcino.github.io/AJ-Portfolio](https://ajorcino.github.io/AJ-Portfolio/#home)
 
 ---
 
